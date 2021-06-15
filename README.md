@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cbolson
+- 👋 Hi, I’m Chris Bolson
 - 👀 I’m interested in coding, space travel and histroy
 - 🌱 I’m currently learning back to basics Wordpress to understand how it really works.
 
