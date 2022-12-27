@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Chris Bolson
-- 👀 I’m interested in coding, space travel and histroy
-- 🌱 Currently learning React
 
 - 📫 www.cbolson.com
 
