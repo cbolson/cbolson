@@ -10,6 +10,7 @@ Since 2002 I have been working as a freelance web developer working with technol
 
 - www.cbolson.com
 - Linkedin [chrisbolson](https://www.linkedin.com/in/chrisbolson/)
+- Twitter [cbolson](https://twitter.com/cbolson)
 
 <!---
 cbolson/cbolson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
