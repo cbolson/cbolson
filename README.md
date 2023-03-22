@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chris Bolson
+👋 Hi, I’m Chris Bolson
 
 I have been developing and designing websites for over 20 years.
 
@@ -8,7 +8,8 @@ In 2000 I began my carear as a web developer.
 Since 2002 I have been working as a freelance web developer working with technologies such as <strong>HTML</strong>, CSS, JavaScript, PHP and MySQL.
 
 
-- 📫 www.cbolson.com
+- www.cbolson.com
+- Linkedin (https://www.linkedin.com/in/chrisbolson/)[chrisbolson]
 
 <!---
 cbolson/cbolson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
