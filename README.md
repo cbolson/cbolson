@@ -1,5 +1,13 @@
 - 👋 Hi, I’m Chris Bolson
 
+I have been developing and designing websites for over 20 years.
+
+I moved to Spain in the mid 90s having finished my media production degree at the University of Northumbria. 
+In 2000 I began my carear as a web developer.
+
+Since 2002 I have been working as a freelance web developer working with technologies such as <strong>HTML</strong>, CSS, JavaScript, PHP and MySQL.
+
+
 - 📫 www.cbolson.com
 
 <!---
