@@ -18,6 +18,7 @@ Since 2002 I have been working as a freelance web developer working with technol
     <img src="https://img.shields.io/badge/CSS3-DDDDDD?style=for-the-badge&logo=css3&logoColor=1572B6"/>
    <!-- <img src="https://img.shields.io/badge/TailwindCss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>-->
     <img src="https://img.shields.io/badge/JavaScript-DDDDDD?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img src="https://img.shields.io/badge/TypeScript-DDDDDD?style=for-the-badge&logo=typescript&logoColor=#3178C6" />
   <img src="https://img.shields.io/badge/jQuery-DDDDDD?style=for-the-badge&logo=javascript&logoColor=0769AD" />
     <img src="https://img.shields.io/badge/PHP-DDDDDD?style=for-the-badge&logo=php&logoColor=777BB4" />
     <img src="https://img.shields.io/badge/MySQL-DDDDDD?style=for-the-badge&logo=mysql&logoColor=005C84"/>
