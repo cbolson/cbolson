@@ -29,6 +29,7 @@ Since 2002 I have been working as a freelance web developer working with technol
     <img src="https://img.shields.io/badge/Tailwind-DDDDDD?style=for-the-badge&logo=tailwind&logoColor=06B6D4"/>
     <img src="https://img.shields.io/badge/Figma-DDDDDD?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
     <img src="https://img.shields.io/badge/Affinity Designer-DDDDDD?style=for-the-badge&logo=affinitydesigner&logoColor=1B72BE"/>
+    <img src="https://img.shields.io/badge/ASP-DDDDDD?style=for-the-badge&logo=asp&logoColor=1B72BE"/>
  </div>
 
 <!---
