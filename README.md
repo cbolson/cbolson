@@ -6,10 +6,12 @@ Having finished my Media Production degree at the University of Northumbria in t
 
 Since 2002 I have been working as a freelance web developer working with technologies such as <strong>HTML</strong>, CSS, JavaScript, PHP and MySQL.
 
+For al my lastest experiments and daily codeing samples, check out my profile on [CodePen](https://codepen.io/cbolson)
 
 - www.cbolson.com
+- CodePen [codepen](https://codepen.io/cbolson)
 - Linkedin [chrisbolson](https://www.linkedin.com/in/chrisbolson/)
-- Twitter [cbolson](https://twitter.com/cbolson)
+- X [cbolson](https://x.com/cbolson)
 
 
  <div>
