@@ -8,8 +8,10 @@ Since 2002 I have been working as a freelance web developer working with technol
 
 For al my lastest experiments and daily codeing samples, check out my profile on [CodePen](https://codepen.io/cbolson)
 
+
 - [cbolson.com](www.cbolson.com)
 - [CodePen](https://codepen.io/cbolson)
+- Over 400 daily challenges on [iCodeThis](https://www.icodethis.com/Chris)
 - [Linkedin](https://www.linkedin.com/in/chrisbolson/)
 - [X](https://x.com/cbolson)
 
