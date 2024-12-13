@@ -8,10 +8,10 @@ Since 2002 I have been working as a freelance web developer working with technol
 
 For al my lastest experiments and daily codeing samples, check out my profile on [CodePen](https://codepen.io/cbolson)
 
-- www.cbolson.com
-- CodePen [codepen](https://codepen.io/cbolson)
-- Linkedin [chrisbolson](https://www.linkedin.com/in/chrisbolson/)
-- X [cbolson](https://x.com/cbolson)
+- [cbolson.com](www.cbolson.com)
+- [CodePen](https://codepen.io/cbolson)
+- [Linkedin](https://www.linkedin.com/in/chrisbolson/)
+- [X](https://x.com/cbolson)
 
 
  <div>
